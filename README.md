@@ -1,4 +1,4 @@
-# MohamedSalah
+# News Application using Java TCP socket programming
 News Application using Java TCP Socket Programming with simple GUI.
 This project aims to deliver News from the Client publisher to Multiple Subscribed Clients using MQTT protocol, where the broker is responsible to deliver the data between both.
 The Publisher choose the category and write the text, then send it to the broker which redirect it to all the connected clients.
